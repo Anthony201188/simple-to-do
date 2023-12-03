@@ -1,4 +1,4 @@
-// script.js
+//  simple to-do script
 
 let tasks = [];
 
